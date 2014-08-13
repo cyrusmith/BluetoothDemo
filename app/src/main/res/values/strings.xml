@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">BluetoothDemo</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_look_for_devices">Искать устройства</string>
+    <string name="app_name">Тест Bluetooth</string>
+    <string name="title_activity_main">Тест bluetooth</string>
+    <string name="title_make_discoverable">Сделать доступным для поиска</string>
+    <string name="title_discover_devices">Найти устройста</string>
+    <string name="title_tap_to_connect">Устройства найдены. Выберите устройство для подключения.</string>
+    <string name="prompt_enter_message">Введите сообщение</string>
+    <string name="title_send_message">Отправить сообщение</string>
+    <string name="title_message_for_device">Сообщение для отправки выбранному устройству</string>
+    <string name="title_message_received">Полученное сообщение</string>
 
 </resources>

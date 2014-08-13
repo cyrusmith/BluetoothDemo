@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">BluetoothDemo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_look_for_devices">Искать устройства</string>
+
 </resources>
